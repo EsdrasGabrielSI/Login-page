@@ -12,7 +12,7 @@
      background-color: blanchedalmond;
      justify-content: center;
      align-items: center;
-     background-image: url(Login/imagem-fundo.jpg);
+     background-image: url('Login/imagem-fundo.jpg');
      background-size: cover;
  }
 
